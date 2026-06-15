@@ -1,0 +1,444 @@
+Date,Type,Category,Description,Amount,Payment_Mode,Month,Month_Name
+2025-12-02,Expense,Entertainment,Event Ticket,549.54,UPI,12,Dec
+2025-11-09,Expense,Food & Snacks,Canteen,126.02,UPI,11,Nov
+2025-09-07,Expense,Entertainment,Movie Ticket,175.44,Cash,9,Sep
+2025-04-09,Expense,Entertainment,Movie Ticket,344.18,UPI,4,Apr
+2025-12-19,Expense,Savings,Transfer to Savings Account,640.73,Cash,12,Dec
+2025-05-28,Expense,Food & Snacks,Restaurant,71.94,Net Banking,5,May
+2025-11-28,Expense,Education,Stationery,788.39,UPI,11,Nov
+2025-01-08,Expense,Food & Snacks,Tea/Snacks,126.19,Cash,1,Jan
+2025-11-06,Expense,Subscriptions,Netflix/OTT Share,274.56,Cash,11,Nov
+2025-01-17,Expense,Food & Snacks,Grocery,90.97,Cash,1,Jan
+2025-12-12,Expense,Subscriptions,Spotify Premium,275.72,UPI,12,Dec
+2025-06-22,Expense,Food & Snacks,Tiffin,239.55,Cash,6,Jun
+2025-06-04,Expense,Education,Printouts/Xerox,93.53,Cash,6,Jun
+2025-01-22,Expense,Transportation,Fuel,58.87,Cash,1,Jan
+2025-05-13,Expense,Transportation,Bus Fare,66.83,UPI,5,May
+2025-09-25,Expense,Savings,Transfer to Savings Account,1958.23,UPI,9,Sep
+2025-03-29,Expense,Entertainment,Movie Ticket,258.02,UPI,3,Mar
+2025-05-02,Expense,Entertainment,Movie Ticket,497.5,UPI,5,May
+2025-09-30,Expense,Food & Snacks,Canteen,192.7,UPI,9,Sep
+2025-05-01,Expense,Food & Snacks,Mess Bill,180.33,UPI,5,May
+2025-01-05,Expense,Entertainment,OTT Rental,429.37,UPI,1,Jan
+2025-05-21,Expense,Entertainment,OTT Rental,161.92,UPI,5,May
+2025-06-23,Expense,Food & Snacks,Mess Bill,165.72,UPI,6,Jun
+2025-02-19,Expense,Food & Snacks,Canteen,219.07,UPI,2,Feb
+2025-02-21,Expense,Food & Snacks,Restaurant,211.57,UPI,2,Feb
+2025-03-12,Expense,Subscriptions,Netflix/OTT Share,289.33,Cash,3,Mar
+2025-03-22,Expense,Entertainment,Movie Ticket,553.84,UPI,3,Mar
+2025-10-21,Expense,Food & Snacks,Grocery,164.6,Net Banking,10,Oct
+2025-02-10,Expense,Food & Snacks,Canteen,115.52,UPI,2,Feb
+2025-01-11,Expense,Food & Snacks,Restaurant,103.69,Card,1,Jan
+2025-06-02,Expense,Clothing,Festive Shopping,866.39,UPI,6,Jun
+2025-06-17,Expense,Food & Snacks,Grocery,80.42,UPI,6,Jun
+2025-10-31,Expense,Entertainment,Outing with Friends,556.82,Cash,10,Oct
+2025-09-06,Expense,Food & Snacks,Grocery,168.24,Cash,9,Sep
+2025-02-16,Expense,Transportation,Metro Card Recharge,36.55,Card,2,Feb
+2025-07-10,Expense,Transportation,Auto/Rickshaw,54.77,Cash,7,Jul
+2025-08-19,Expense,Personal Care,Skincare,288.88,UPI,8,Aug
+2025-06-04,Expense,Entertainment,OTT Rental,355.79,Cash,6,Jun
+2025-07-22,Expense,Food & Snacks,Restaurant,154.1,Card,7,Jul
+2025-08-24,Expense,Transportation,Metro Card Recharge,94.89,UPI,8,Aug
+2025-09-11,Expense,Transportation,Fuel,42.39,UPI,9,Sep
+2025-04-24,Expense,Food & Snacks,Tea/Snacks,189.78,UPI,4,Apr
+2025-03-30,Expense,Savings,Transfer to Savings Account,1864.54,Cash,3,Mar
+2025-02-22,Expense,Personal Care,Haircut,165.57,UPI,2,Feb
+2025-03-07,Expense,Personal Care,Toiletries,214.36,Cash,3,Mar
+2025-10-20,Expense,Food & Snacks,Mess Bill,122.0,Cash,10,Oct
+2025-07-30,Expense,Food & Snacks,Canteen,129.51,Card,7,Jul
+2025-03-17,Expense,Transportation,Metro Card Recharge,37.18,Net Banking,3,Mar
+2025-06-30,Expense,Food & Snacks,Tea/Snacks,223.5,UPI,6,Jun
+2025-05-16,Expense,Entertainment,Gaming,114.02,UPI,5,May
+2025-07-17,Expense,Transportation,Fuel,59.33,UPI,7,Jul
+2025-12-13,Expense,Transportation,Auto/Rickshaw,76.19,Net Banking,12,Dec
+2025-02-19,Expense,Food & Snacks,Grocery,209.39,UPI,2,Feb
+2025-07-05,Expense,Food & Snacks,Grocery,151.84,UPI,7,Jul
+2025-08-28,Expense,Food & Snacks,Tea/Snacks,73.53,Net Banking,8,Aug
+2025-06-07,Expense,Transportation,Auto/Rickshaw,71.7,UPI,6,Jun
+2025-08-15,Expense,Food & Snacks,Mess Bill,199.16,UPI,8,Aug
+2025-12-17,Expense,Transportation,Fuel,56.36,UPI,12,Dec
+2025-04-25,Expense,Food & Snacks,Canteen,69.52,Net Banking,4,Apr
+2025-10-20,Expense,Transportation,Metro Card Recharge,62.95,UPI,10,Oct
+2025-04-26,Expense,Food & Snacks,Grocery,206.39,UPI,4,Apr
+2025-05-19,Expense,Food & Snacks,Restaurant,90.85,UPI,5,May
+2025-07-29,Expense,Entertainment,Event Ticket,236.06,UPI,7,Jul
+2025-11-02,Expense,Clothing,T-Shirt/Shirt,1344.35,UPI,11,Nov
+2025-04-21,Expense,Transportation,Auto/Rickshaw,86.83,Net Banking,4,Apr
+2025-07-01,Income,Pocket Money,Monthly Allowance from Parents,8000.0,Net Banking,7,Jul
+2025-02-19,Expense,Miscellaneous,Donation,140.51,UPI,2,Feb
+2025-08-13,Expense,Transportation,Metro Card Recharge,35.51,UPI,8,Aug
+2025-11-19,Expense,Entertainment,Outing with Friends,466.61,Card,11,Nov
+2025-05-25,Expense,Food & Snacks,Mess Bill,113.42,Cash,5,May
+2025-01-30,Expense,Food & Snacks,Mess Bill,240.03,UPI,1,Jan
+2025-06-15,Expense,Transportation,Metro Card Recharge,90.03,UPI,6,Jun
+2025-08-17,Expense,Subscriptions,Netflix/OTT Share,308.66,UPI,8,Aug
+2025-04-13,Expense,Clothing,Winter Wear,449.25,UPI,4,Apr
+2025-04-22,Income,Tutoring Income,Tuition for Junior Student,2798.0,UPI,4,Apr
+2025-06-05,Income,Tutoring Income,Tuition for Junior Student,2031.0,UPI,6,Jun
+2025-12-27,Expense,Food & Snacks,Canteen,92.23,Cash,12,Dec
+2025-01-25,Expense,Food & Snacks,Grocery,236.24,Card,1,Jan
+2025-09-23,Expense,Subscriptions,Spotify Premium,285.55,Cash,9,Sep
+2025-01-10,Expense,Education,Reference Book,361.18,UPI,1,Jan
+2025-09-30,Expense,Entertainment,Outing with Friends,478.17,UPI,9,Sep
+2025-11-07,Expense,Transportation,Cab Ride,24.89,Cash,11,Nov
+2025-07-22,Expense,Food & Snacks,Grocery,78.53,UPI,7,Jul
+2025-06-23,Expense,Miscellaneous,Other,383.8,UPI,6,Jun
+2025-11-19,Expense,Food & Snacks,Tea/Snacks,139.36,Cash,11,Nov
+2025-04-14,Expense,Food & Snacks,Tiffin,97.15,UPI,4,Apr
+2025-01-26,Expense,Food & Snacks,Tea/Snacks,113.79,Cash,1,Jan
+2025-06-09,Expense,Food & Snacks,Tea/Snacks,202.69,UPI,6,Jun
+2025-03-10,Expense,Education,Reference Book,674.66,UPI,3,Mar
+2025-04-18,Expense,Mobile & Internet,Monthly Recharge,275.39,Card,4,Apr
+2025-07-07,Expense,Transportation,Cab Ride,33.48,Cash,7,Jul
+2025-03-20,Expense,Transportation,Auto/Rickshaw,43.84,UPI,3,Mar
+2025-02-28,Expense,Entertainment,Movie Ticket,102.08,Net Banking,2,Feb
+2025-02-19,Expense,Food & Snacks,Mess Bill,177.33,UPI,2,Feb
+2025-08-06,Expense,Education,Stationery,793.28,Card,8,Aug
+2025-12-01,Expense,Food & Snacks,Restaurant,220.26,Cash,12,Dec
+2025-10-12,Expense,Entertainment,Outing with Friends,135.76,Card,10,Oct
+2025-05-21,Expense,Food & Snacks,Restaurant,238.11,Card,5,May
+2025-12-30,Expense,Food & Snacks,Mess Bill,172.34,Net Banking,12,Dec
+2025-01-07,Expense,Food & Snacks,Tiffin,231.83,UPI,1,Jan
+2025-01-31,Expense,Education,Lab Manual,647.29,UPI,1,Jan
+2025-12-25,Expense,Transportation,Cab Ride,87.07,UPI,12,Dec
+2025-03-23,Expense,Food & Snacks,Tiffin,244.09,Cash,3,Mar
+2025-07-07,Expense,Food & Snacks,Mess Bill,140.27,UPI,7,Jul
+2025-02-25,Expense,Transportation,Auto/Rickshaw,92.86,UPI,2,Feb
+2025-11-09,Expense,Food & Snacks,Grocery,204.79,UPI,11,Nov
+2025-02-08,Expense,Transportation,Metro Card Recharge,89.3,UPI,2,Feb
+2025-07-25,Expense,Transportation,Metro Card Recharge,38.86,Cash,7,Jul
+2025-12-07,Expense,Food & Snacks,Restaurant,118.91,Net Banking,12,Dec
+2025-05-07,Expense,Clothing,Festive Shopping,386.03,Cash,5,May
+2025-02-08,Expense,Savings,Transfer to Savings Account,718.52,Card,2,Feb
+2025-09-25,Expense,Education,Reference Book,481.07,Net Banking,9,Sep
+2025-11-12,Expense,Transportation,Cab Ride,76.61,UPI,11,Nov
+2025-08-08,Expense,Food & Snacks,Mess Bill,60.3,UPI,8,Aug
+2025-06-05,Expense,Food & Snacks,Restaurant,137.09,UPI,6,Jun
+2025-06-17,Expense,Transportation,Fuel,20.06,UPI,6,Jun
+2025-03-09,Expense,Food & Snacks,Restaurant,200.7,Cash,3,Mar
+2025-11-09,Expense,Transportation,Cab Ride,37.55,Card,11,Nov
+2025-03-04,Expense,Food & Snacks,Canteen,106.18,Card,3,Mar
+2025-07-01,Expense,Mobile & Internet,Monthly Recharge,257.08,Card,7,Jul
+2025-11-14,Income,Tutoring Income,Tuition for Junior Student,2647.0,UPI,11,Nov
+2025-02-06,Expense,Education,Stationery,537.6,Cash,2,Feb
+2025-03-24,Expense,Transportation,Auto/Rickshaw,91.34,UPI,3,Mar
+2025-03-09,Expense,Food & Snacks,Restaurant,74.42,UPI,3,Mar
+2025-05-01,Expense,Transportation,Cab Ride,52.21,UPI,5,May
+2025-05-08,Expense,Clothing,Winter Wear,701.95,UPI,5,May
+2025-10-01,Income,Pocket Money,Monthly Allowance from Parents,8000.0,Net Banking,10,Oct
+2025-08-01,Income,Pocket Money,Monthly Allowance from Parents,8000.0,Net Banking,8,Aug
+2025-06-16,Expense,Food & Snacks,Canteen,244.62,Card,6,Jun
+2025-12-01,Income,Pocket Money,Monthly Allowance from Parents,8000.0,Net Banking,12,Dec
+2025-10-21,Expense,Transportation,Auto/Rickshaw,65.85,Cash,10,Oct
+2025-03-18,Expense,Transportation,Bus Fare,23.82,Card,3,Mar
+2025-01-01,Expense,Food & Snacks,Restaurant,203.73,Cash,1,Jan
+2025-04-27,Expense,Transportation,Auto/Rickshaw,35.39,Card,4,Apr
+2025-06-16,Expense,Miscellaneous,Donation,273.56,UPI,6,Jun
+2025-06-01,Income,Pocket Money,Monthly Allowance from Parents,8000.0,Net Banking,6,Jun
+2025-10-09,Expense,Savings,Transfer to Savings Account,1136.05,Net Banking,10,Oct
+2025-10-22,Expense,Food & Snacks,Tiffin,200.7,Net Banking,10,Oct
+2025-09-25,Expense,Entertainment,Event Ticket,237.14,UPI,9,Sep
+2025-02-18,Expense,Food & Snacks,Grocery,89.51,Net Banking,2,Feb
+2025-01-10,Expense,Entertainment,OTT Rental,216.55,Card,1,Jan
+2025-08-17,Expense,Transportation,Metro Card Recharge,48.11,UPI,8,Aug
+2025-10-24,Expense,Food & Snacks,Tea/Snacks,127.15,UPI,10,Oct
+2025-09-18,Income,Refund,Refund for Returned Item,327.07,UPI,9,Sep
+2025-04-30,Expense,Clothing,Footwear,1482.62,UPI,4,Apr
+2025-12-13,Expense,Transportation,Fuel,64.53,Net Banking,12,Dec
+2025-05-05,Expense,Food & Snacks,Tiffin,220.11,Cash,5,May
+2025-04-17,Expense,Personal Care,Haircut,66.29,Cash,4,Apr
+2025-10-22,Expense,Clothing,Footwear,1273.71,UPI,10,Oct
+2025-02-02,Expense,Food & Snacks,Mess Bill,83.82,Net Banking,2,Feb
+2025-08-07,Expense,Food & Snacks,Restaurant,217.71,Card,8,Aug
+2025-09-21,Expense,Transportation,Cab Ride,96.4,UPI,9,Sep
+2025-10-28,Expense,Entertainment,Gaming,308.75,UPI,10,Oct
+2025-09-27,Expense,Transportation,Cab Ride,33.12,Card,9,Sep
+2025-03-17,Expense,Transportation,Metro Card Recharge,43.57,Net Banking,3,Mar
+2025-07-19,Expense,Transportation,Fuel,66.08,Card,7,Jul
+2025-06-26,Expense,Clothing,Festive Shopping,579.39,Card,6,Jun
+2025-08-07,Expense,Transportation,Metro Card Recharge,48.26,UPI,8,Aug
+2025-03-11,Expense,Transportation,Fuel,99.25,UPI,3,Mar
+2025-09-04,Expense,Food & Snacks,Tea/Snacks,234.64,UPI,9,Sep
+2025-04-01,Income,Pocket Money,Monthly Allowance from Parents,8000.0,Net Banking,4,Apr
+2025-11-19,Expense,Education,Stationery,444.52,Cash,11,Nov
+2025-12-25,Expense,Transportation,Auto/Rickshaw,62.57,UPI,12,Dec
+2025-10-07,Expense,Food & Snacks,Grocery,169.81,UPI,10,Oct
+2025-12-03,Expense,Transportation,Metro Card Recharge,32.93,UPI,12,Dec
+2025-02-08,Expense,Subscriptions,Netflix/OTT Share,186.07,Card,2,Feb
+2025-06-20,Expense,Entertainment,OTT Rental,252.76,UPI,6,Jun
+2025-06-25,Expense,Savings,Transfer to Savings Account,697.85,Card,6,Jun
+2025-03-23,Expense,Education,Reference Book,273.93,UPI,3,Mar
+2025-08-25,Expense,Entertainment,Movie Ticket,492.15,UPI,8,Aug
+2025-04-18,Expense,Miscellaneous,Repairs,131.91,Cash,4,Apr
+2025-06-13,Expense,Transportation,Bus Fare,33.08,UPI,6,Jun
+2025-08-09,Expense,Education,Stationery,378.95,UPI,8,Aug
+2025-03-20,Expense,Food & Snacks,Restaurant,161.46,Cash,3,Mar
+2025-10-15,Income,Festival Bonus,Diwali Gift from Family,3288.0,Cash,10,Oct
+2025-10-09,Expense,Food & Snacks,Tea/Snacks,166.94,Card,10,Oct
+2025-09-30,Expense,Personal Care,Skincare,125.66,Net Banking,9,Sep
+2025-08-06,Expense,Savings,Transfer to Savings Account,1032.26,UPI,8,Aug
+2025-10-17,Expense,Entertainment,Movie Ticket,246.21,Net Banking,10,Oct
+2025-09-21,Expense,Food & Snacks,Mess Bill,134.32,UPI,9,Sep
+2025-04-01,Expense,Transportation,Bus Fare,21.82,UPI,4,Apr
+2025-04-24,Expense,Entertainment,Gaming,442.33,Card,4,Apr
+2025-01-15,Expense,Transportation,Fuel,96.44,UPI,1,Jan
+2025-10-19,Expense,Transportation,Cab Ride,73.36,Cash,10,Oct
+2025-11-14,Expense,Food & Snacks,Tea/Snacks,88.29,UPI,11,Nov
+2025-03-17,Expense,Miscellaneous,Gift,364.65,Cash,3,Mar
+2025-09-07,Expense,Food & Snacks,Restaurant,132.64,UPI,9,Sep
+2025-09-06,Expense,Clothing,Festive Shopping,1313.02,UPI,9,Sep
+2025-05-06,Expense,Food & Snacks,Canteen,125.83,Cash,5,May
+2025-07-28,Expense,Transportation,Auto/Rickshaw,78.41,UPI,7,Jul
+2025-10-28,Expense,Transportation,Metro Card Recharge,83.05,UPI,10,Oct
+2025-03-21,Expense,Personal Care,Skincare,135.72,Cash,3,Mar
+2025-11-04,Expense,Miscellaneous,Other,163.66,Card,11,Nov
+2025-09-30,Expense,Entertainment,Movie Ticket,145.56,UPI,9,Sep
+2025-02-02,Expense,Transportation,Fuel,25.71,UPI,2,Feb
+2025-11-16,Expense,Education,Stationery,97.82,UPI,11,Nov
+2025-10-17,Expense,Entertainment,OTT Rental,410.75,Net Banking,10,Oct
+2025-01-16,Expense,Savings,Transfer to Savings Account,1719.94,UPI,1,Jan
+2025-10-26,Expense,Subscriptions,Spotify Premium,352.96,Cash,10,Oct
+2025-02-25,Expense,Education,Printouts/Xerox,426.36,UPI,2,Feb
+2025-05-17,Expense,Mobile & Internet,Monthly Recharge,277.76,Net Banking,5,May
+2025-08-20,Expense,Miscellaneous,Repairs,142.53,UPI,8,Aug
+2025-08-04,Expense,Food & Snacks,Grocery,97.55,UPI,8,Aug
+2025-10-30,Expense,Personal Care,Haircut,126.29,UPI,10,Oct
+2025-04-27,Expense,Transportation,Metro Card Recharge,72.54,Cash,4,Apr
+2025-08-18,Income,Tutoring Income,Tuition for Junior Student,2985.0,UPI,8,Aug
+2025-12-24,Expense,Food & Snacks,Grocery,145.87,UPI,12,Dec
+2025-07-26,Expense,Food & Snacks,Restaurant,186.25,UPI,7,Jul
+2025-05-19,Expense,Transportation,Auto/Rickshaw,54.72,Net Banking,5,May
+2025-08-18,Expense,Personal Care,Skincare,139.73,UPI,8,Aug
+2025-12-06,Expense,Personal Care,Skincare,228.39,UPI,12,Dec
+2025-11-09,Expense,Transportation,Cab Ride,35.52,UPI,11,Nov
+2025-09-04,Expense,Food & Snacks,Grocery,133.24,UPI,9,Sep
+2025-02-23,Expense,Food & Snacks,Tiffin,58.95,UPI,2,Feb
+2025-08-12,Expense,Transportation,Bus Fare,91.74,Cash,8,Aug
+2025-12-23,Expense,Mobile & Internet,Monthly Recharge,280.53,Cash,12,Dec
+2025-11-14,Expense,Food & Snacks,Tiffin,231.64,UPI,11,Nov
+2025-07-16,Expense,Entertainment,Outing with Friends,100.85,UPI,7,Jul
+2025-09-02,Expense,Transportation,Auto/Rickshaw,90.9,Cash,9,Sep
+2025-09-04,Expense,Transportation,Auto/Rickshaw,50.54,Cash,9,Sep
+2025-08-28,Expense,Transportation,Bus Fare,67.85,Card,8,Aug
+2025-04-02,Expense,Education,Stationery,215.04,Net Banking,4,Apr
+2025-07-07,Expense,Food & Snacks,Mess Bill,223.03,UPI,7,Jul
+2025-05-29,Expense,Transportation,Metro Card Recharge,50.42,UPI,5,May
+2025-12-07,Expense,Personal Care,Toiletries,251.46,Cash,12,Dec
+2025-11-10,Expense,Transportation,Bus Fare,55.47,UPI,11,Nov
+2025-12-15,Expense,Food & Snacks,Restaurant,217.96,Card,12,Dec
+2025-08-17,Expense,Food & Snacks,Mess Bill,158.48,Card,8,Aug
+2025-06-01,Expense,Food & Snacks,Tea/Snacks,80.79,Card,6,Jun
+2025-09-05,Expense,Transportation,Fuel,31.6,UPI,9,Sep
+2025-04-20,Expense,Subscriptions,Netflix/OTT Share,245.64,UPI,4,Apr
+2025-10-25,Expense,Food & Snacks,Canteen,116.29,Cash,10,Oct
+2025-05-26,Expense,Food & Snacks,Canteen,53.18,Net Banking,5,May
+2025-08-07,Expense,Food & Snacks,Grocery,176.71,UPI,8,Aug
+2025-11-04,Expense,Food & Snacks,Mess Bill,184.62,Card,11,Nov
+2025-10-11,Expense,Transportation,Auto/Rickshaw,49.71,UPI,10,Oct
+2025-01-30,Expense,Transportation,Bus Fare,30.49,UPI,1,Jan
+2025-07-08,Expense,Education,Printouts/Xerox,288.8,Net Banking,7,Jul
+2025-10-18,Expense,Education,Reference Book,724.84,UPI,10,Oct
+2025-01-18,Expense,Mobile & Internet,Monthly Recharge,272.71,UPI,1,Jan
+2025-09-10,Expense,Food & Snacks,Restaurant,170.08,UPI,9,Sep
+2025-04-06,Expense,Personal Care,Haircut,225.11,UPI,4,Apr
+2025-12-03,Expense,Food & Snacks,Mess Bill,186.63,Cash,12,Dec
+2025-02-10,Income,Tutoring Income,Tuition for Junior Student,1400.0,UPI,2,Feb
+2025-07-31,Expense,Personal Care,Toiletries,293.55,UPI,7,Jul
+2025-11-24,Expense,Entertainment,Movie Ticket,138.02,Card,11,Nov
+2025-12-14,Expense,Food & Snacks,Tea/Snacks,151.66,Card,12,Dec
+2025-04-30,Expense,Food & Snacks,Canteen,177.5,Net Banking,4,Apr
+2025-02-21,Expense,Food & Snacks,Grocery,164.97,UPI,2,Feb
+2025-06-20,Expense,Transportation,Auto/Rickshaw,65.85,Card,6,Jun
+2025-12-10,Expense,Food & Snacks,Tiffin,244.02,UPI,12,Dec
+2025-10-19,Expense,Food & Snacks,Tiffin,215.68,Card,10,Oct
+2025-04-04,Expense,Transportation,Bus Fare,63.36,UPI,4,Apr
+2025-09-19,Expense,Food & Snacks,Grocery,195.27,UPI,9,Sep
+2025-07-12,Expense,Food & Snacks,Mess Bill,157.74,Cash,7,Jul
+2025-12-17,Expense,Personal Care,Skincare,157.03,UPI,12,Dec
+2025-07-23,Expense,Subscriptions,Netflix/OTT Share,226.26,UPI,7,Jul
+2025-08-23,Expense,Mobile & Internet,Monthly Recharge,297.23,Card,8,Aug
+2025-04-01,Expense,Transportation,Bus Fare,47.95,Net Banking,4,Apr
+2025-12-12,Expense,Miscellaneous,Repairs,63.05,UPI,12,Dec
+2025-11-29,Expense,Mobile & Internet,Monthly Recharge,271.08,Cash,11,Nov
+2025-02-01,Expense,Food & Snacks,Mess Bill,221.4,UPI,2,Feb
+2025-04-08,Expense,Education,Lab Manual,226.22,UPI,4,Apr
+2025-07-10,Expense,Transportation,Cab Ride,51.3,UPI,7,Jul
+2025-01-25,Expense,Subscriptions,Spotify Premium,352.21,Net Banking,1,Jan
+2025-08-02,Expense,Food & Snacks,Mess Bill,153.29,UPI,8,Aug
+2025-03-16,Expense,Food & Snacks,Tiffin,120.97,Cash,3,Mar
+2025-01-28,Expense,Entertainment,Event Ticket,348.96,Cash,1,Jan
+2025-02-01,Expense,Transportation,Fuel,99.4,UPI,2,Feb
+2025-11-23,Expense,Food & Snacks,Tiffin,71.31,UPI,11,Nov
+2025-11-25,Expense,Personal Care,Toiletries,209.99,Net Banking,11,Nov
+2025-09-17,Expense,Food & Snacks,Mess Bill,214.75,UPI,9,Sep
+2025-05-27,Expense,Miscellaneous,Donation,300.47,Cash,5,May
+2025-03-07,Expense,Transportation,Fuel,51.89,Card,3,Mar
+2025-02-18,Expense,Personal Care,Haircut,240.27,UPI,2,Feb
+2025-11-08,Expense,Clothing,Festive Shopping,382.74,Card,11,Nov
+2025-04-10,Expense,Food & Snacks,Canteen,82.17,UPI,4,Apr
+2025-01-27,Expense,Transportation,Metro Card Recharge,31.49,Cash,1,Jan
+2025-07-20,Expense,Savings,Transfer to Savings Account,1647.81,UPI,7,Jul
+2025-09-16,Expense,Education,Online Course Fee,293.47,UPI,9,Sep
+2025-01-04,Expense,Transportation,Bus Fare,40.73,Cash,1,Jan
+2025-03-05,Expense,Food & Snacks,Canteen,227.8,UPI,3,Mar
+2025-11-19,Expense,Food & Snacks,Tiffin,232.43,Card,11,Nov
+2025-08-22,Expense,Food & Snacks,Restaurant,246.78,Cash,8,Aug
+2025-04-22,Expense,Transportation,Bus Fare,98.87,Cash,4,Apr
+2025-06-28,Expense,Food & Snacks,Mess Bill,139.98,UPI,6,Jun
+2025-10-02,Expense,Food & Snacks,Mess Bill,204.67,Net Banking,10,Oct
+2025-05-02,Expense,Personal Care,Skincare,102.09,UPI,5,May
+2025-07-26,Expense,Entertainment,OTT Rental,445.49,UPI,7,Jul
+2025-08-22,Expense,Food & Snacks,Tiffin,94.17,UPI,8,Aug
+2025-07-07,Expense,Transportation,Fuel,88.21,Card,7,Jul
+2025-09-19,Expense,Personal Care,Toiletries,125.53,UPI,9,Sep
+2025-01-03,Expense,Transportation,Metro Card Recharge,60.32,Cash,1,Jan
+2025-02-01,Income,Pocket Money,Monthly Allowance from Parents,8000.0,Net Banking,2,Feb
+2025-01-28,Expense,Transportation,Auto/Rickshaw,53.04,UPI,1,Jan
+2025-01-04,Expense,Food & Snacks,Mess Bill,200.08,UPI,1,Jan
+2025-08-31,Expense,Clothing,Festive Shopping,321.68,UPI,8,Aug
+2025-08-19,Expense,Entertainment,Outing with Friends,144.62,UPI,8,Aug
+2025-04-04,Expense,Food & Snacks,Restaurant,139.96,UPI,4,Apr
+2025-05-05,Expense,Education,Lab Manual,422.62,Net Banking,5,May
+2025-09-26,Expense,Food & Snacks,Mess Bill,89.28,UPI,9,Sep
+2025-10-08,Expense,Transportation,Cab Ride,44.87,UPI,10,Oct
+2025-12-30,Expense,Food & Snacks,Mess Bill,188.38,UPI,12,Dec
+2025-11-24,Expense,Food & Snacks,Canteen,189.92,UPI,11,Nov
+2025-03-01,Income,Pocket Money,Monthly Allowance from Parents,8000.0,Net Banking,3,Mar
+2025-08-03,Expense,Transportation,Metro Card Recharge,50.94,UPI,8,Aug
+2025-09-04,Expense,Clothing,Festive Shopping,403.01,UPI,9,Sep
+2025-04-27,Expense,Transportation,Cab Ride,91.12,UPI,4,Apr
+2025-02-06,Expense,Entertainment,OTT Rental,236.1,Cash,2,Feb
+2025-01-07,Expense,Entertainment,OTT Rental,234.09,Card,1,Jan
+2025-05-27,Expense,Transportation,Cab Ride,56.03,UPI,5,May
+2025-01-05,Expense,Clothing,Festive Shopping,770.4,UPI,1,Jan
+2025-06-19,Expense,Food & Snacks,Canteen,95.19,Cash,6,Jun
+2025-05-01,Income,Refund,Refund for Returned Item,173.65,UPI,5,May
+2025-10-07,Expense,Personal Care,Haircut,110.6,UPI,10,Oct
+2025-08-29,Expense,Education,Reference Book,531.35,Card,8,Aug
+2025-10-17,Expense,Food & Snacks,Restaurant,248.3,UPI,10,Oct
+2025-12-06,Expense,Food & Snacks,Canteen,51.36,UPI,12,Dec
+2025-12-10,Expense,Transportation,Bus Fare,58.67,Cash,12,Dec
+2025-03-18,Expense,Entertainment,Movie Ticket,127.56,Cash,3,Mar
+2025-06-25,Expense,Food & Snacks,Tiffin,101.28,Card,6,Jun
+2025-12-16,Expense,Education,Online Course Fee,637.55,UPI,12,Dec
+2025-09-10,Expense,Mobile & Internet,Monthly Recharge,286.05,Net Banking,9,Sep
+2025-09-18,Expense,Transportation,Bus Fare,21.32,UPI,9,Sep
+2025-03-06,Expense,Food & Snacks,Tea/Snacks,61.91,UPI,3,Mar
+2025-07-09,Expense,Education,Stationery,748.63,UPI,7,Jul
+2025-11-29,Expense,Transportation,Metro Card Recharge,49.85,UPI,11,Nov
+2025-04-09,Expense,Food & Snacks,Tea/Snacks,50.85,Cash,4,Apr
+2025-12-14,Expense,Food & Snacks,Grocery,125.92,Net Banking,12,Dec
+2025-04-26,Expense,Savings,Transfer to Savings Account,633.36,UPI,4,Apr
+2025-01-12,Expense,Transportation,Fuel,76.75,Cash,1,Jan
+2025-04-16,Expense,Education,Stationery,386.36,Cash,4,Apr
+2025-03-11,Expense,Transportation,Metro Card Recharge,41.78,UPI,3,Mar
+2025-05-20,Expense,Transportation,Fuel,30.09,UPI,5,May
+2025-09-18,Expense,Food & Snacks,Tiffin,115.31,UPI,9,Sep
+2025-01-28,Expense,Food & Snacks,Tea/Snacks,106.54,UPI,1,Jan
+2025-08-16,Expense,Food & Snacks,Tiffin,215.32,Cash,8,Aug
+2025-07-11,Expense,Food & Snacks,Mess Bill,132.15,Card,7,Jul
+2025-07-15,Expense,Food & Snacks,Mess Bill,234.93,UPI,7,Jul
+2025-05-01,Expense,Subscriptions,Spotify Premium,193.69,UPI,5,May
+2025-11-08,Expense,Entertainment,OTT Rental,143.31,Cash,11,Nov
+2025-02-22,Expense,Personal Care,Haircut,199.01,UPI,2,Feb
+2025-07-06,Expense,Food & Snacks,Mess Bill,72.47,UPI,7,Jul
+2025-12-29,Expense,Entertainment,Movie Ticket,261.67,UPI,12,Dec
+2025-02-02,Expense,Food & Snacks,Restaurant,57.11,UPI,2,Feb
+2025-10-27,Expense,Transportation,Metro Card Recharge,97.63,UPI,10,Oct
+2025-08-03,Expense,Transportation,Bus Fare,40.52,UPI,8,Aug
+2025-04-18,Expense,Transportation,Auto/Rickshaw,38.01,UPI,4,Apr
+2025-11-18,Expense,Food & Snacks,Tea/Snacks,161.21,UPI,11,Nov
+2025-11-14,Expense,Personal Care,Haircut,288.92,Card,11,Nov
+2025-06-10,Expense,Transportation,Auto/Rickshaw,98.72,UPI,6,Jun
+2025-02-15,Expense,Transportation,Cab Ride,21.91,UPI,2,Feb
+2025-04-15,Expense,Food & Snacks,Mess Bill,240.86,Cash,4,Apr
+2025-01-07,Expense,Food & Snacks,Restaurant,231.92,UPI,1,Jan
+2025-03-06,Expense,Transportation,Metro Card Recharge,86.93,Net Banking,3,Mar
+2025-09-02,Expense,Transportation,Auto/Rickshaw,30.06,UPI,9,Sep
+2025-01-29,Expense,Food & Snacks,Mess Bill,111.6,UPI,1,Jan
+2025-11-26,Expense,Transportation,Cab Ride,80.71,UPI,11,Nov
+2025-03-02,Expense,Food & Snacks,Mess Bill,90.7,UPI,3,Mar
+2025-10-29,Expense,Transportation,Fuel,52.22,Cash,10,Oct
+2025-05-06,Expense,Food & Snacks,Tea/Snacks,164.0,UPI,5,May
+2025-10-20,Expense,Food & Snacks,Grocery,57.67,UPI,10,Oct
+2025-02-15,Expense,Education,Reference Book,54.63,Cash,2,Feb
+2025-07-27,Expense,Transportation,Metro Card Recharge,70.93,UPI,7,Jul
+2025-09-27,Expense,Entertainment,Outing with Friends,449.04,UPI,9,Sep
+2025-05-15,Expense,Food & Snacks,Mess Bill,207.35,UPI,5,May
+2025-08-07,Expense,Food & Snacks,Mess Bill,102.07,UPI,8,Aug
+2025-02-13,Expense,Mobile & Internet,Monthly Recharge,266.29,UPI,2,Feb
+2025-03-29,Expense,Mobile & Internet,Monthly Recharge,311.03,Cash,3,Mar
+2025-02-18,Expense,Miscellaneous,Other,151.28,UPI,2,Feb
+2025-08-30,Expense,Food & Snacks,Tea/Snacks,124.18,UPI,8,Aug
+2025-10-01,Expense,Mobile & Internet,Monthly Recharge,269.69,UPI,10,Oct
+2025-03-11,Expense,Miscellaneous,Donation,355.39,Cash,3,Mar
+2025-11-19,Expense,Transportation,Metro Card Recharge,30.37,Net Banking,11,Nov
+2025-05-28,Expense,Food & Snacks,Tiffin,70.24,UPI,5,May
+2025-06-13,Expense,Mobile & Internet,Monthly Recharge,286.01,UPI,6,Jun
+2025-07-15,Expense,Food & Snacks,Canteen,220.52,UPI,7,Jul
+2025-07-09,Expense,Education,Printouts/Xerox,365.85,UPI,7,Jul
+2025-06-12,Expense,Subscriptions,Spotify Premium,186.8,Net Banking,6,Jun
+2025-11-27,Expense,Food & Snacks,Canteen,125.19,Card,11,Nov
+2025-12-11,Expense,Transportation,Cab Ride,84.76,UPI,12,Dec
+2025-08-18,Expense,Food & Snacks,Tiffin,228.74,UPI,8,Aug
+2025-09-30,Expense,Food & Snacks,Tiffin,181.23,UPI,9,Sep
+2025-11-14,Expense,Food & Snacks,Tiffin,92.33,Card,11,Nov
+2025-06-05,Expense,Entertainment,Gaming,186.11,UPI,6,Jun
+2025-01-25,Expense,Personal Care,Toiletries,60.39,UPI,1,Jan
+2025-07-05,Expense,Transportation,Cab Ride,59.57,UPI,7,Jul
+2025-04-03,Expense,Entertainment,OTT Rental,208.37,UPI,4,Apr
+2025-05-01,Expense,Transportation,Bus Fare,89.02,Cash,5,May
+2025-05-25,Expense,Transportation,Metro Card Recharge,30.27,UPI,5,May
+2025-06-03,Expense,Food & Snacks,Grocery,168.26,Cash,6,Jun
+2025-02-28,Expense,Transportation,Fuel,62.14,UPI,2,Feb
+2025-06-28,Expense,Food & Snacks,Canteen,112.8,Cash,6,Jun
+2025-07-18,Expense,Food & Snacks,Restaurant,127.28,UPI,7,Jul
+2025-04-27,Expense,Food & Snacks,Tea/Snacks,129.89,Cash,4,Apr
+2025-02-12,Expense,Transportation,Fuel,51.44,UPI,2,Feb
+2025-07-30,Expense,Transportation,Bus Fare,40.57,Cash,7,Jul
+2025-03-18,Expense,Transportation,Fuel,25.43,UPI,3,Mar
+2025-03-19,Expense,Transportation,Fuel,57.58,UPI,3,Mar
+2025-06-17,Expense,Transportation,Metro Card Recharge,84.02,UPI,6,Jun
+2025-11-01,Income,Pocket Money,Monthly Allowance from Parents,8000.0,Net Banking,11,Nov
+2025-10-31,Expense,Food & Snacks,Grocery,52.22,UPI,10,Oct
+2025-01-04,Expense,Transportation,Cab Ride,71.93,UPI,1,Jan
+2025-12-16,Expense,Education,Lab Manual,110.79,UPI,12,Dec
+2025-08-27,Expense,Food & Snacks,Restaurant,239.43,Card,8,Aug
+2025-05-08,Expense,Savings,Transfer to Savings Account,697.27,Card,5,May
+2025-07-20,Expense,Food & Snacks,Tea/Snacks,103.63,Cash,7,Jul
+2025-05-18,Expense,Food & Snacks,Restaurant,233.4,UPI,5,May
+2025-10-11,Expense,Transportation,Auto/Rickshaw,91.56,Cash,10,Oct
+2025-09-25,Expense,Transportation,Metro Card Recharge,51.97,UPI,9,Sep
+2025-02-12,Expense,Food & Snacks,Mess Bill,93.04,Cash,2,Feb
+2025-04-24,Expense,Transportation,Cab Ride,96.04,Card,4,Apr
+2025-01-29,Expense,Food & Snacks,Canteen,145.48,UPI,1,Jan
+2025-11-03,Expense,Transportation,Cab Ride,88.76,Card,11,Nov
+2025-06-09,Expense,Personal Care,Toiletries,255.35,Cash,6,Jun
+2025-02-17,Expense,Transportation,Metro Card Recharge,75.12,UPI,2,Feb
+2025-06-13,Expense,Transportation,Bus Fare,37.31,Cash,6,Jun
+2025-05-01,Income,Pocket Money,Monthly Allowance from Parents,8000.0,Net Banking,5,May
+2025-01-22,Expense,Food & Snacks,Tiffin,66.7,UPI,1,Jan
+2025-05-30,Expense,Food & Snacks,Tiffin,147.08,UPI,5,May
+2025-01-01,Income,Pocket Money,Monthly Allowance from Parents,8000.0,Net Banking,1,Jan
+2025-11-14,Expense,Savings,Transfer to Savings Account,1353.45,Cash,11,Nov
+2025-02-14,Expense,Food & Snacks,Tiffin,96.09,Card,2,Feb
+2025-04-15,Expense,Food & Snacks,Tiffin,243.92,Cash,4,Apr
+2025-09-01,Income,Pocket Money,Monthly Allowance from Parents,8000.0,Net Banking,9,Sep
+2025-02-08,Expense,Clothing,Footwear,1055.46,UPI,2,Feb
+2025-05-15,Expense,Education,Printouts/Xerox,747.41,UPI,5,May
+2025-09-17,Expense,Personal Care,Haircut,67.02,Cash,9,Sep
+2025-09-16,Expense,Food & Snacks,Restaurant,152.42,UPI,9,Sep
+2025-03-17,Expense,Food & Snacks,Canteen,169.65,Net Banking,3,Mar
+2025-03-31,Expense,Entertainment,Movie Ticket,151.78,UPI,3,Mar
+2025-10-23,Expense,Personal Care,Skincare,66.2,Cash,10,Oct
+2025-07-29,Expense,Personal Care,Toiletries,58.16,UPI,7,Jul
+2025-02-18,Expense,Transportation,Metro Card Recharge,47.21,UPI,2,Feb
+2025-11-14,Expense,Entertainment,Outing with Friends,173.18,Net Banking,11,Nov
+2025-09-10,Expense,Transportation,Bus Fare,79.41,UPI,9,Sep
+2025-03-11,Expense,Transportation,Fuel,75.11,UPI,3,Mar
+2025-10-23,Expense,Food & Snacks,Grocery,189.16,Net Banking,10,Oct
+2025-11-12,Expense,Food & Snacks,Restaurant,228.55,Cash,11,Nov
+2025-06-11,Expense,Transportation,Metro Card Recharge,40.29,Card,6,Jun
+2025-12-28,Expense,Entertainment,OTT Rental,112.82,Card,12,Dec
+2025-05-23,Expense,Food & Snacks,Tiffin,222.74,UPI,5,May
+2025-04-12,Expense,Food & Snacks,Restaurant,146.4,Cash,4,Apr
