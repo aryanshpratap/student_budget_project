@@ -148,5 +148,5 @@ student_budget_project/
 ```
 <img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/5b7354db-1af5-4e2a-9f44-3c00ef375c26" />
 <img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/384d6e59-8d37-41e0-b57e-9e3d0f0e45f4" />
-[👉 Click Here to View the Live Interactive Tableau Dashboard]([PASTE_YOUR_LIVE_TABLEAU_URL_HERE](https://public.tableau.com/views/StudentPersonalFinanceDashboard/StudentBudgetDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[👉 Click Here to View the Live Interactive Tableau Dashboard](https://public.tableau.com/views/StudentPersonalFinanceDashboard/StudentBudgetDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ```
